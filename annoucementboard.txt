@@ -1,1 +1,5 @@
 Welcome to (Insert Final Game Name) Alpha V.01
+
+Explore the maps, choose one through the lobby portals.
+
+To return to the lobby, press and hold the right joystick for 3 seconds.
